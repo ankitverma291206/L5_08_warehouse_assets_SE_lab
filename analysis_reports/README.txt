@@ -1,0 +1,1 @@
+Static-analysis tools were not installed in the creation environment, so their reports have not been fabricated. Install pylint, bandit, and flake8, then follow the commands in the project README to generate the requested reports.
